@@ -1,0 +1,17 @@
+gender,math score,reading score,writing score,parental level of education,test preparation course
+female,72,83,78,associate's degree,completed
+male,69,70,88,bachelor's degree,completed
+female,90,95,93,master's degree,none
+male,71,83,78,high school,completed
+female,88,92,92,associate's degree,completed
+male,40,43,39,high school,none
+female,64,64,67,high school,none
+male,38,40,43,associate's degree,none
+female,65,81,73,bachelor's degree,completed
+male,78,83,85,high school,completed
+female,72,83,78,bachelor's degree,none
+male,88,92,92,master's degree,none
+female,95,98,93,associate's degree,completed
+male,80,78,81,high school,completed
+female,85,92,88,associate's degree,completed
+male,90,95,94,bachelor's degree,none
